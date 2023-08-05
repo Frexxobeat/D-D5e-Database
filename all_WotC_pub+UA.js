@@ -17,7 +17,7 @@ if (!SourceList.ALbackground) {
 	SourceList.ALbackground = {
 		name : "All official WotC backgrounds",
 		abbreviation : "WotC",
-		group : "Primary Sources"
+		group : "Primary Sources" 
 	}
 };
 
@@ -27,7 +27,7 @@ RaceList["mountain dwarf"] = {
 	name : "Mountain dwarf",
 	sortname : "Dwarf, Mountain",
 	source : ["P", 20],
-	plural : "Mountain dwarves",
+	plural : "Mountain dwarves",SpellsList
 	size : 3,
 	speed : {
 		walk : { spd : 25, enc : 25 }

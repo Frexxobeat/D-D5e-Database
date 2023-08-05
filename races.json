@@ -1,9 +1,6 @@
 {
-	"_meta": {
-		"internalCopies": [
-			"race"
-		]
-	},
+	
+	
 	"race": [
 		{
 			"name": "Aarakocra",
@@ -715,7 +712,7 @@
 				{
 					"known": {
 						"1": [
-							"dancing lights#c"
+							"dancing lights"
 						]
 					},
 					"ability": {
